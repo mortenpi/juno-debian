@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: juno
+Upstream-Contact: Name, <morten.piibeleht@gmail.com>
+
+Files: *
+Copyright: 2011, Name, <email@address>
+License: MIT
