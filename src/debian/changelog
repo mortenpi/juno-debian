@@ -1,5 +1,6 @@
-juno (0.0.1) UNRELEASED; urgency=low
+juno (0.0.1ubuntu1) UNRELEASED; urgency=low
 
   * Initial release.
+  * Add the missing logo file. 
 
- -- Morten Piibeleht <morten.piibeleht@gmail.com>  Wed, 26 Jul 2017 23:45:55 +1200
+ -- Morten Piibeleht <mortenpi@tyrins>  Fri, 28 Jul 2017 10:17:32 +1200
