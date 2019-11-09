@@ -2,15 +2,14 @@ Source: juno
 Section: editors
 Priority: optional
 Maintainer: Morten Piibeleht, <morten.piibeleht@gmail.com>
-Build-Depends:
-Standards-Version: 3.9.2
-X-Python-Version: >= 2.6
+Build-Depends: debhelper
+Standards-Version: 4.1.4
 
 
 Package: juno
 Architecture: all
 Section: editors
-Depends: atom
+Depends: atom, ${misc:Depends}
 Description: Juno IDE for Julia
  Scripts to set up the Juno environment.
  Juno is an Atom-based IDE for the Julia programming language.
