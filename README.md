@@ -5,6 +5,9 @@ These scripts can be used to package the launcher script for [Juno](https://juno
 Built packages can be installed from the [~mortenpi/julia-meta](https://launchpad.net/~mortenpi/+archive/ubuntu/julia-meta) Launchpad repository:
 
 ```sh
+sudo add-apt-repository ppa:mortenpi/julia-meta
+sudo apt update
+sudo apt install juno-launcher
 ```
 
 ## Building
