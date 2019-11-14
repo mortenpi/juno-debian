@@ -1,17 +1,5 @@
-juno (0.1.0+t2) bionic; urgency=medium
-
-  * Don't build with --with python2 
-
- -- Morten Piibeleht <morten.piibeleht@gmail.com>  Sat, 09 Nov 2019 18:56:02 +0100
-
-juno (0.1.0+t1) bionic; urgency=medium
-
-  * Fixed build deps 
-
- -- Morten Piibeleht <morten.piibeleht@gmail.com>  Sat, 09 Nov 2019 18:45:47 +0100
-
-juno (0.1.0) bionic; urgency=low
+juno-launcher (0.0.1+ubuntu1) bionic; urgency=medium
 
   * Initial release of the Juno launcher wrapper package.
 
- -- Morten Piibeleht <morten.piibeleht@gmail.com>  Sat, 09 Nov 2019 17:48:35 +0100
+ -- Morten Piibeleht <morten.piibeleht@gmail.com>  Thu, 14 Nov 2019 22:13:58 +0100

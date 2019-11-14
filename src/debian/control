@@ -1,4 +1,4 @@
-Source: juno
+Source: juno-launcher
 Section: editors
 Priority: optional
 Maintainer: Morten Piibeleht, <morten.piibeleht@gmail.com>
@@ -6,10 +6,10 @@ Build-Depends: debhelper
 Standards-Version: 4.1.4
 
 
-Package: juno
+Package: juno-launcher
 Architecture: all
 Section: editors
 Depends: atom, ${misc:Depends}
-Description: Juno IDE for Julia
- Scripts to set up the Juno environment.
- Juno is an Atom-based IDE for the Julia programming language.
+Description: Juno is an Atom-based IDE for the Julia programming language.
+ This package sets up a launcher script to launch Juno in a self-contained
+ environment.

@@ -5,3 +5,6 @@ Upstream-Contact: Morten Piibeleht, <morten.piibeleht@gmail.com>
 Files: *
 Copyright: 2019, Morten Piibeleht, <morten.piibeleht@gmail.com>
 License: MIT
+
+Files: juno.svg
+Copyright: 2019, Sebastian Pfitzner

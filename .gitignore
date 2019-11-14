@@ -1,2 +1,4 @@
-/juno_*
+/juno-launcher*
+/src/debian/.debhelper
 /src/debian/files
+/src/debian/juno-launcher*
